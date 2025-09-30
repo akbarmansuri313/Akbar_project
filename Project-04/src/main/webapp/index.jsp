@@ -32,7 +32,7 @@
 
 	<h1 align="center">
 		<font size="10px" color="red"> <a 
-			href="<%=ORSView.WELCOME_CTL%>">Online Result System34344334</a></font>
+			href="<%=ORSView.WELCOME_CTL%>">Online Result System00000</a></font>
 	</h1>
 
 
